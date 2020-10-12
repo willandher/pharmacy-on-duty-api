@@ -29,7 +29,7 @@ docker build -t -p 8080:8080 pharmacy-service
 
 [Luego podemos explorar en swagger todos los servicios expuestos y como usarlos](http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)
 
-[Microservicio en la nube, ver swagger](https://pharmacy-service-ftsn5nwobq-uc.a.run.app/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)
+[Microservicio en la nube, ver swagger](https://pharmacy-service-dev-ftsn5nwobq-uc.a.run.app/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config)
 
 
 ## Si quieres ver como se desarrollo:
